@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResourcesModule</string>
+    <string name="app_get_string">title  get   </string>
+    <string name="app_post_string">title  post  </string>
+    <string name="module_first_string">资源目录下的module first string</string>
+    <string name="module_second_string">资源目录下的module second string</string>
+
+</resources>

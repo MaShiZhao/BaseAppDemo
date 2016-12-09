@@ -1,0 +1,1 @@
+include ':app', ':appFrame', ':moduleFirst', ':moduleSecond', ':resourcesModule'
